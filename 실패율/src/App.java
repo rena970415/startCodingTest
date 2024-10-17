@@ -6,7 +6,7 @@ public class App {
     int N = 5;
     // 각 플레이어가 머무르고 있는 스테이지 정보 (예시 데이터)
     int[] stages = { 2, 1, 2, 6, 2, 4, 3, 3 };
-
+ 
     // 실패율 계산 후 결과 출력
     System.out.println("실패율 : " + Arrays.toString(failsRto(N, stages)));
   }
