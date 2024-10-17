@@ -17,7 +17,7 @@ public class App {
     int c1 = arr1[0].length;  // arr1의 열 개수
 
     // arr2의 행(r2)과 열(c2)을 구함
-    int r2 = arr2.length;     // arr2의 행 개수
+    //int r2 = arr2.length;     // arr2의 행 개수
     int c2 = arr2[0].length;  // arr2의 열 개수
 
     // 결과 행렬(answer)은 arr1의 행(r1)과 arr2의 열(c2)의 크기로 초기화
